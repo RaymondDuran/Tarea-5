@@ -1,0 +1,9 @@
+POST http://localhost:8000
+Content-Type: application/json
+
+{
+    "nombre": "Maria",
+    "apellido":"Lopez",
+    "telefono":"829-568-6487"
+
+}
